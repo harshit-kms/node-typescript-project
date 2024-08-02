@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .card {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .names {
+    font-weight: bold;
+  }
+  
+  .nearest {
+    margin-top: 20px;
+  }
+  
+  form {
+    margin-top: 10px;
+  }
+  
